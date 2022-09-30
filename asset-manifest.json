@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DZH-assignment/static/css/main.f3f08c78.css",
+    "main.js": "/DZH-assignment/static/js/main.32ccfbaa.js",
+    "index.html": "/DZH-assignment/index.html",
+    "main.f3f08c78.css.map": "/DZH-assignment/static/css/main.f3f08c78.css.map",
+    "main.32ccfbaa.js.map": "/DZH-assignment/static/js/main.32ccfbaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f08c78.css",
+    "static/js/main.32ccfbaa.js"
+  ]
+}
